@@ -54,6 +54,47 @@
     <Reference Include="PresentationFramework" />
     <Reference Include="System.Xaml" />
     <Reference Include="WindowsBase" />
+    <Reference Include="System.Reactive">
+      <HintPath>..\packages\System.Reactive.4.0.0\lib\net46\System.Reactive.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="DynamicData">
+      <HintPath>..\packages\DynamicData.6.7.1.2534\lib\net46\DynamicData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Core">
+      <HintPath>..\packages\System.Reactive.Core.4.0.0\lib\net46\System.Reactive.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Experimental">
+      <HintPath>..\packages\System.Reactive.Experimental.4.0.0\lib\net46\System.Reactive.Experimental.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces">
+      <HintPath>..\packages\System.Reactive.Interfaces.4.0.0\lib\net46\System.Reactive.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Linq">
+      <HintPath>..\packages\System.Reactive.Linq.4.0.0\lib\net46\System.Reactive.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.PlatformServices">
+      <HintPath>..\packages\System.Reactive.PlatformServices.4.0.0\lib\net46\System.Reactive.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Providers">
+      <HintPath>..\packages\System.Reactive.Providers.4.0.0\lib\net46\System.Reactive.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Runtime.Remoting">
+      <HintPath>..\packages\System.Reactive.Runtime.Remoting.4.0.0\lib\net46\System.Reactive.Runtime.Remoting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Windows.Forms">
+      <HintPath>..\packages\System.Reactive.Windows.Forms.4.0.0\lib\net46\System.Reactive.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reactive.Windows.Threading">
+      <HintPath>..\packages\System.Reactive.Windows.Threading.4.0.0\lib\net46\System.Reactive.Windows.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="ReactiveUI">
+      <HintPath>..\packages\ReactiveUI.9.6.3\lib\net461\ReactiveUI.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
