@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacSplatConsole", "MacSplatConsole\MacSplatConsole.csproj", "{D636D779-7D00-4F9F-8148-501B434DAC1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacSplatApp", "MacSplatApp\MacSplatApp.csproj", "{3FEF436F-66AF-492C-BCF9-1DB37421579E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{D636D779-7D00-4F9F-8148-501B434DAC1C}.Debug|x86.Build.0 = Debug|x86
 		{D636D779-7D00-4F9F-8148-501B434DAC1C}.Release|x86.ActiveCfg = Release|x86
 		{D636D779-7D00-4F9F-8148-501B434DAC1C}.Release|x86.Build.0 = Release|x86
+		{3FEF436F-66AF-492C-BCF9-1DB37421579E}.Debug|x86.ActiveCfg = Debug|x86
+		{3FEF436F-66AF-492C-BCF9-1DB37421579E}.Debug|x86.Build.0 = Debug|x86
+		{3FEF436F-66AF-492C-BCF9-1DB37421579E}.Release|x86.ActiveCfg = Release|x86
+		{3FEF436F-66AF-492C-BCF9-1DB37421579E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
